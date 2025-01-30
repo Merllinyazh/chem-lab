@@ -1,0 +1,19 @@
+{
+    "experiments": [
+      {
+        "id": 1,
+        "name": "Acid-Base Reaction",
+        "chemicals": ["acid", "base"],
+        "result": "Neutralization Reaction"
+      }
+    ],
+    "quizzes": [
+      {
+        "id": 1,
+        "question": "What happens when acid reacts with a base?",
+        "options": ["Precipitation", "Neutralization", "Oxidation"],
+        "answer": "Neutralization"
+      }
+    ]
+  }
+  
