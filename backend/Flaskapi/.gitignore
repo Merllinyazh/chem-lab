@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+
+# Logs & temp files
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+.DS_Store
+
+# Build files
+dist/
+build/
+.next/
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
